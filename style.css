@@ -27,7 +27,7 @@ nav {
     top: 250px;
     display: flex;
     flex-direction: row;
-    justify-content: start;
+    justify-content: space-between;
     align-items: center;
 }
 
@@ -44,7 +44,7 @@ nav {
 }
 .content-items {
     width: 30%;
-    background-color: white;
+    padding-top: 10px;
 }
 .left-links, .right-links {
     padding-top: 10px;
